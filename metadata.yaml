@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1056
     wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46398#The-Manchester-Rebels-of-the-Fatal-45
 gutenberg_issued: '2014-07-24'
 gutenberg_type: Text
 identifiers:
