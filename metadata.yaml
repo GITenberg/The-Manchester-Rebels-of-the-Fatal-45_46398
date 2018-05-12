@@ -1,0 +1,42 @@
+_repo: The-Manchester-Rebels-of-the-Fatal-45_46398
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gilbert, Frederick
+    alias: Gilbert, F. (Frederick)
+    birthdate: 1827
+    deathdate: 1902
+    gutenberg_agent_id: '43759'
+    url: http://www.gutenberg.org/2009/agents/43759
+covers:
+- cover_type: archival
+  image_path: 46398-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ainsworth, William Harrison
+    aliases:
+    - Ainsworth, W. H. (William Harrison)
+    - Ainworth, W. Harrison (William Harrison)
+    - Ainsworth, W. Harrison (William Harrison)
+    - Ainsworth, Harrison
+    - Ticheburn, Cheviot
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '1056'
+    url: http://www.gutenberg.org/2009/agents/1056
+    wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
+description: ''
+gutenberg_issued: '2014-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- George II, 1727-1760 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Jacobite Rebellion, 1745-1746 -- Fiction'
+title: The Manchester Rebels of the Fatal '45
+url: http://www.gutenberg.org/ebooks/46398
